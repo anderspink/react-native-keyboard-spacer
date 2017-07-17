@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/Andr3wHur5t/react-native-keyboard-spacer.git"
   },
+  "dependencies": {
+    "prop-types": "^15.5.4"
+  },
   "keywords": [
     "react-component",
     "react-native",
